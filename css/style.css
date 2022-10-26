@@ -6,12 +6,16 @@
 }
 /* COMMON */
 body{
-    width: 75rem;
-    padding: 2%;
+    padding: 1%;
+}
+/* CONTAINER */
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 /* IMMAGINE */
 .imagine{
    width: 75rem;
-   height: 35.625rem;
-    
+   height: 35rem;
 }
