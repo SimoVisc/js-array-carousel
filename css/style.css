@@ -5,3 +5,13 @@
     padding:0
 }
 /* COMMON */
+body{
+    width: 75rem;
+    padding: 2%;
+}
+/* IMMAGINE */
+.imagine{
+   width: 75rem;
+   height: 35.625rem;
+    
+}
